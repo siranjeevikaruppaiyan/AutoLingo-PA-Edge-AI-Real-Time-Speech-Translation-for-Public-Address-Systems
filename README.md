@@ -1,6 +1,6 @@
 AutoLingo-PA: Edge-AI Real-Time Speech Translation for Public Address Systems
 
-Project Description
+Project Description:
 
 AutoLingo-PA is an Edge-AI-based system designed to translate public announcements into multiple languages in real time, including offline operation.
 
